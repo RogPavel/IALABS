@@ -503,7 +503,8 @@ random.seed(42)
 
 После запуска программа выводит примерно:
 
-![Uploading изображение.png…]()
+<img width="289" height="416" alt="Screenshot_2" src="https://github.com/user-attachments/assets/c1be87fe-8553-40b9-87bb-f89b1c08b9a2" />
+
 
 
 Конкретное время выполнения зависит от компьютера.
